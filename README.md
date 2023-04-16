@@ -17,7 +17,7 @@ Welcome to the Super Mario Bros AI repository! This project showcases a sophisti
 
 ## Features
 
-- Reinforcement learning agent utilizing the Proximal Policy Optimization (PPO) algorithm from the Stable Baselines 3 library.
+- Reinforcement learning agent utilizing the state-of-the-art Proximal Policy Optimization (PPO) algorithm from the Stable Baselines 3 library.
 - `gym_super_mario_bros` package integration for an authentic Super Mario Bros game environment.
 - Simplified action space using the JoypadSpace wrapper from the `nes_py` library, streamlining the agent's decision-making process.
 - Comprehensive training process with 1,000,000 (or more) timesteps, ensuring a well-trained and effective model.
