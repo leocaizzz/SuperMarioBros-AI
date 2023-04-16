@@ -42,7 +42,7 @@ pip install gym_super_mario_bros nes_py stable_baselines3
 2. Clone this repository
 
 ```
-git clone https://github.com/yourusername/super_mario_bros_ai.git
+git clone https://github.com/leocaizzz/super_mario_bros_ai.git
 cd super_mario_bros_ai
 ```
 ## Usage
@@ -50,7 +50,7 @@ cd super_mario_bros_ai
 1. Run the script to train the agent and visualize its progress:
 
 ```
-python main.py
+python mario.py
 ```
 
 During the training phase, the agent will explore and learn from the Super Mario Bros game environment. It will make decisions that maximize its rewards, improving its performance over time.
@@ -69,4 +69,4 @@ Any contributions to this project are welcomed! If you have ideas for improvemen
 2. Make the desired changes, test them thoroughly, and ensure that the code is well-documented.
 3. Submit a pull request to the main repository, providing a detailed description of your changes.
 
-I will actively review pull requests and provide feedbacks. Once your changes are approved, they will be merged into the main repository.
+I will actively review pull requests and provide feedbacks. Once your changes are approved, they will be merged into the main repository. 
