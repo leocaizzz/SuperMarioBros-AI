@@ -69,4 +69,4 @@ Any contributions to this project are welcomed! If you have ideas for improvemen
 2. Make the desired changes, test them thoroughly, and ensure that the code is well-documented.
 3. Submit a pull request to the main repository, providing a detailed description of your changes.
 
-I will actively review pull requests and provide feedbacks. Once your changes are approved, they will be merged into the main repository. 
+I will actively review pull requests and provide feedbacks. Once your changes are approved, they will be merged into the main repository.
